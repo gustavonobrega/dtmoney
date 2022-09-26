@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-09-22T19:30:44.505Z"
+    },
+    {
+      "description": "Pastel",
+      "price": 200,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-09-26T20:45:11.732Z",
+      "id": 3
     }
   ]
 }
